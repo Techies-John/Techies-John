@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Vincent Jimar</h1>
+<h1 align="center">Hi <img src="/images/handwave.gif" alt="docker" width="10" height="10"/>, I'm John Vincent Jimar</h1>
 <h3 align="center">A Backend Developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techies-john&label=Profile%20views&color=0e75b6&style=flat" alt="techies-john" /> </p>
