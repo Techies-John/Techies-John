@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Express JS and Go**
 
-- 💬 Ask me about **Javascript, Vue and Nuxt**
-
 - 📫 How to reach me **johnvjimar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
