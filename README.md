@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techies-john" alt="techies-john" /></a> </p>
 
-- 🔭 I’m currently working on [cedolis-search-engine](https://github.com/Team-SE-CED/search-engine)
+- 🔭 I’m currently working on [cedolis-search-engine](https://github.com/Techies-Demolitions/project-spellman)
 
 - 🌱 I’m currently learning **Express JS and Go**
 
